@@ -1,1 +1,5 @@
+**Sentimental-analysis-based-on-Movie-Recommendation-System-using-Graph-Neural-Network**
+
+*ABSTRACT*
+
 Users now have an overwhelm of content due to the creation of movie content providers, making it challenging to choose relevant movie titles. While a lot of study has been done on creating recommender systems that work well and can deliver Personalized recommendations based on prior behaviours and preferences of consumers, not as much focus has been placed on combining users' sentiments and emotions. In this, we are developing a Graph Neural Network based movie recommender system that made use of sentiment and emotion data in addition to user ratings, and we assessed its effectiveness against both state-of-the-art and well-known conventional models. Using adjusted BERT, the sentiment and emotion data were retrieved. By using Kaggle dataset by scraping review and meta data from Rotten Tomatoes. The findings demonstrate that the suggested IGMC-based models when combined with sentiment and emotion out perform the models that were compared. The results emphasize how important it is to use sentiment and mood data when recommending films using Graph Neural Network.
