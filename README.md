@@ -1,13 +1,8 @@
-# MoRGH
-
-MoRGH is used in movie recommender systems. This is our implementation of MoRGH to predict the movies which 
-a person can be interested based on a hybrid approach of collaborative filtering and content based.
+Sentimental-analysis-based-on-Movie-Recommendation-System-using-Graph-Neural-Network is used in movie recommender systems. This is our implementation of Sentimental-analysis-based-on-Movie-Recommendation-System-using-Graph-Neural-Network to predict the movies which a person can be interested based on a hybrid approach of collaborative filtering and content based.
 
 Under Review in Journal of Intelligent Information Systems
 
 MoRGH: Movie Recommender System using GNNs on Heterogeneous Graphs
-
-Authors: S.S. Ziaee, H. Rahmani, M. Nazari, M. Aghajani
 
 MoRGH main steps: 
 
