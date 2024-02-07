@@ -1,6 +1,21 @@
-## Sentimental analysis based on Movie Recommendation System using Graph Neural Network
+# MoRGH
 
-#ABSTRACT:
-	
-	
-	Movie recommendation system that leverages sentiment analysis and Graph Neural Networks (GNNs) to provide personalized movie recommendations based on user sentiments. The system aims to enhance the movie-watching experience by analyzing sentiments expressed in movie reviews or social media posts. By incorporating a GNN, the system can capture complex relationships between movies, users, and sentiments, enabling it to make more accurate and personalized recommendations. The sentiment analysis component processes textual data, extracting sentiments, and associating them with corresponding movies. The GNN model is then trained on a graph representation of the movie-user-sentiment network to learn and predict user preferences based on sentiments. Experimental evaluation demonstrates the effectiveness of the proposed system in providing sentiment-aware movie recommendations. The results highlight the potential of sentiment analysis and GNNs in improving movie recommendation systems, providing personalized watchlits and enhancing user satisfaction.
+MoRGH is used in movie recommender systems. This is our implementation of MoRGH to predict the movies which 
+a person can be interested based on a hybrid approach of collaborative filtering and content based.
+
+Under Review in Journal of Intelligent Information Systems
+
+MoRGH: Movie Recommender System using GNNs on Heterogeneous Graphs
+
+Authors: S.S. Ziaee, H. Rahmani, M. Nazari, M. Aghajani
+
+MoRGH main steps: 
+
+![MoRGH main Steps](https://raw.githubusercontent.com/sinaziaee/movie_recommender/master/figs/MoRGH_Overall.png)
+
+
+Notes:
+
+To run the codes please use these versions of softwares and libraries:
+
+Python 3.9, Pytorch 1.11, torch geometric 2.0.4, Numpy 1.18.1, and Pandas 1.0.1.
